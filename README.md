@@ -1,4 +1,7 @@
-### Hi there 👋
+# Hi, Im Dap
+
+> Welcome to my world of creativity and passion. 
+
 
 <!--
 **Dlray89/Dlray89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
