@@ -1,6 +1,14 @@
-# Hi, Im Dap
+![Header for github](/imgs/header.gif)
 
-> Welcome to my world of creativity and passion. 
+# Full Stack Web Developer 
+
+> Welcome to my world of creativity and passion. Hi, my name is David Ray Jr and I toke the step to chase my dreams of becoming a software developer. Becoming a developer
+I believe the user should have a robust, user-friendly, handicap accessible, and easy to use UI.
+
+## Here is a list of what I currently specialized in:
+    * Front End Development
+    * Server-Side Applications
+    * Web header design
 
 
 <!--
