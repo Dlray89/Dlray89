@@ -2,9 +2,7 @@
 
 # Full Stack Web Developer 
 
-> Welcome to my world of creativity and passion. Hi, my name is David Ray Jr and I toke the step to chase my dreams of becoming a software developer. Becoming a developer
-I believe the user should have a robust, user-friendly, handicap accessible, and easy to use UI.
-
+> Welcome to my world of creativity and passion. Hi, my name is David Ray Jr and I toke the step to chase my dreams of becoming a software developer. Becoming a developer I believe the user should have a robust, user-friendly, handicap accessible, and easy to use UI. I started this journey back in Sept of 2019 and walking along this path that was meant to be has been very challenging but also satisfying. I love absolutely everything about being a full stack web developer. Hey, let us collaborate on something cool.
 ### Here is a list of what I currently specialized in:
     * Front End Development
     * Server-Side Applications
@@ -31,17 +29,10 @@ I believe the user should have a robust, user-friendly, handicap accessible, and
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dlray89)](https://github.com/anuraghazra/github-readme-stats)
 
 
-You can find me on ![LinkedIn][2.2]
-
-<!-- Icons -->
-
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-
-<!-- Links to your social media accounts -->
-
-[2]: https://www.linkedin.com/in/dapperdave1914/
-
-<!-- Icons -->
+### Lets collaborate
+* Email: dlrayjr89@gmail.com 
+* Website: www.dapthedev.com
+* LinkedIn: www.LinkedIn.com/dapperdave1914
 
 
 
