@@ -25,6 +25,7 @@
 ![](https://img.shields.io/badge/MaterialUI-mational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=red)
 
 ### Mostly used!
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dlray89)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
