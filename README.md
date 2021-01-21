@@ -32,7 +32,7 @@
 
 ### Lets collaborate
 * Email: dlrayjr89@gmail.com 
-* Website: www.dapthedev.com
+* Website: www.davidrayjr.com
 * LinkedIn: https://www.linkedin.com/in/dapperdave1914/
 
 
