@@ -1,12 +1,12 @@
 ![Header for github](/imgs/header.gif)
 
-# Full Stack Web Developer 
+# Front End Developer 
 
 > Welcome to my world of creativity and passion. Hi, my name is David Ray Jr and I toke the step to chase my dreams of becoming a software developer. Becoming a developer I believe the user should have a robust, user-friendly, handicap accessible, and easy to use UI. I started this journey back in Sept of 2019 and walking along this path that was meant to be has been very challenging but also satisfying. I love absolutely everything about being a full stack web developer. Hey, let us collaborate on something cool.
 ### Here is a list of what I currently specialized in:
     * Front End Development
-    * Server-Side Applications
-    * Web header design
+    * Responsive Designs 
+    
 
 ### :toolbox: Technologies and Tools:
 > ![](https://img.shields.io/badge/HTML-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=red)
