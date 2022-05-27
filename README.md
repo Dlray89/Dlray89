@@ -1,11 +1,16 @@
 ![Header for github](/imgs/header.gif)
 
-# Front End Developer 
+# Cyber Security Specialist & Front End Developer 
 
-> Welcome to my world of creativity and passion. Hi, my name is David Ray Jr and I toke the step to chase my dreams of becoming a software developer. Becoming a developer I believe the user should have a robust, user-friendly, handicap accessible, and easy to use UI. I started this journey back in Sept of 2019 and walking along this path that was meant to be has been very challenging but also satisfying. I love absolutely everything about being a full stack web developer. Hey, let us collaborate on something cool.
+> Welcome to my Github! I provide creative and technical solutions to help indiviuals bring their vision to life using technology. Rather its building an application/website that meets the needs of the client or providing mitigation techiques to your cyber security challenges you may be facing in your environmentl.
 ### Here is a list of what I currently specialized in:
     * Front End Development
-    * Responsive Designs 
+    * Network Security
+    * Host Security
+    * Application Security
+    * Threat Assessments
+    * Vulnerability Assessments
+    * Risk Assessments
     
 
 ### :toolbox: Technologies and Tools:
@@ -33,7 +38,7 @@
 ### Lets collaborate
 * Email: dlrayjr89@gmail.com 
 * Website: www.davidrayjr.com
-* LinkedIn: https://www.linkedin.com/in/dapperdave1914/
+* LinkedIn: https://www.linkedin.com/in/davidrayjr89/
 
 
 
