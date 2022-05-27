@@ -1,4 +1,4 @@
-![Header for github](/imgs/header.gif)
+![Header for github](/imgs/Github (1).png)
 
 # Cyber Security Specialist & Front End Developer 
 
